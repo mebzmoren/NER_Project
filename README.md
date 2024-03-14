@@ -10,7 +10,9 @@ Authored by Ma. Beatrice Emanuela N. Pilar, Ellyza Mari J. Papas, Mary Loise Bue
 
 ## Data
 The dataset contribution of this study is a compilation of Cebuano news articles from two local news stations, Yes the Best Dumaguete and
-the Filipinas Bisaya. To further increase the data count, we also incorporated another publicly available dataset from [Sunstar Cebu](https://github.com/rjrequina/Cebuano-POS-Tagger/blob/master/eval/data/scraped/news-raw.txt) pre-collected by independent researcher Arjemariel Requina. The total accumulated and filtered size of the Cebuano dataset is 4258 articles. All the dataset used for this study is purely for non-commercial research purposes and under Fair Use.
+the Filipinas Bisaya. To further increase the data count, we also incorporated another publicly available dataset from [Sunstar Cebu](https://github.com/rjrequina/Cebuano-POS-Tagger/blob/master/eval/data/scraped/news-raw.txt) pre-collected by independent researcher Arjemariel Requina. The total accumulated and filtered size of the Cebuano dataset is 4258 articles. 
+
+All the datasets used for this study are purely for non-commercial research purposes and under Fair Use. They should *not* be used to develop or train commercial AI models.
 
 | Source                  | Original      | Cleaned |  
 | ------------------------| ------------- | ------- |
